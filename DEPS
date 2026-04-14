@@ -304,7 +304,7 @@ deps = {
 
   # GLFW for tests and samples
   'third_party/glfw3/src': {
-    'url': '{chromium_git}/external/github.com/glfw/glfw@043378876a67b092f5d0d3d9748660121a336dd3',
+    'url': '{chromium_git}/external/github.com/glfw/glfw@b00e6a8a88ad1b60c0a045e696301deb92c9a13e',
   },
 
   'third_party/vulkan_memory_allocator': {
@@ -502,7 +502,7 @@ deps = {
 
   # Upstream webgpu.h headers for testing purposes
   'third_party/webgpu-headers/src': {
-    'url': '{chromium_git}/external/github.com/webgpu-native/webgpu-headers@7d3186c3dd2c708703524027b46b8703534ab3cc',
+    'url': '{chromium_git}/external/github.com/webgpu-native/webgpu-headers@dc16b3e531cf4f31be54236d1a3e988ba5f295a2',
   },
 
   # Like the Node dependency, architectures are listed out explicitly instead of
